@@ -12,4 +12,4 @@ Welcome to my webpage! I am a first-year PhD student in Operations Research at M
 
 In my free time, I enjoy playing the horn, jogging, and drinking at the pub.
 
-My resume can be found [here]().
+My resume can be found [here](/files/resume_20230117.pdf).
