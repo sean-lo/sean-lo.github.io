@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-optimal-low-rank-matrix-completion
 excerpt: 'A custom branch-and-bound scheme that solves low-rank matrix completion to certifiable optimality, through an eigenvector disjunctive scheme and strong semidefinite relaxations at each node.'
 date: 2023-05-15
-venue: 'Submitted to Operations Research'
+venue: 'Preprint on Optimization Online'
 paperurl: 'http://academicpages.github.io/files/olrmc_20230515.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
