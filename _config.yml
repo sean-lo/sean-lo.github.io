@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sean Lo / About Me"
 title_separator          : "-"
 name                     : &name "Sean Lo"
-description              : &description "First-year PhD student at MIT Operations Research Center."
+description              : &description "Second-year PhD student at MIT Operations Research Center."
 url                      : https://sean-lo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sean-lo/sean-lo.github.io"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Sean Lo"
-  avatar           : "profile.jfif"
-  bio              : "First-year PhD student at MIT Operations Research Center."
+  avatar           : "profile_photo_square.heic"
+  bio              : "Second-year PhD student at MIT Operations Research Center."
   location         : "Cambridge, MA"
   employer         :
   pubmed           :
   googlescholar    :
-  email            :
+  email            : "seanlo@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
