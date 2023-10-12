@@ -18,8 +18,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Resume"
-    url: /files/resume_20230117.pdf
+  # - title: "Resume"
+  #   url: /files/resume_20230117.pdf
 
   # - title: "Guide"
   #   url: /markdown/
