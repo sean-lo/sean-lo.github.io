@@ -14,6 +14,7 @@ In my free time, I enjoy playing the horn, running, and hiking.
 
 ## News
 
+- Mar 22, 2024: I gave a talk at INFORMS Optimization Society Conference in Houston, TX, titled *"Electric Vehicle Routing: Subpath-Based Decomposition"* (slides available [here](https://sean-lo.github.io/files/evrp_ios_20240322.pdf))
 - Oct 15, 2023: I gave a talk at INFORMS Annual Meeting in Phoenix, AZ, titled *"Electric Vehicle Routing: Subpath-Based Decomposition"* (slides available [here](https://sean-lo.github.io/files/evrp_informs_20231015.pdf))
 - May 23, 2023: I presented a poster titled *"Optimal Low-Rank Matrix Completion: Semidefinite Relaxations and Eigenvector Disjunctions"* at Mixed-Integer Programming 2023 (available [here](https://sean-lo.github.io/files/olrmc_poster_20230515.pdf)).
 - May 15, 2023: We've published *"Optimal Low-Rank Matrix Completion: Semidefinite Relaxations and Eigenvector Disjunctions"* (preprint available [here](https://optimization-online.org/2023/05/optimal-low-rank-matrix-completion-semidefinite-relaxations-and-eigenvector-disjunctions/)).
