@@ -6,6 +6,7 @@ excerpt: 'A custom branch-and-bound scheme that solves low-rank matrix completio
 date: 2023-05-15
 venue: 'Preprint on arXiv'
 paperurl: 'https://arxiv.org/abs/2305.12292'
+authors: Dimitris Bertsimas, Ryan Cory-Wright, **Sean Lo**, Jean Pauphilet
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
