@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Sean Lo"
   avatar           : "profile_photo_square.jpg"
-  bio              : "Second-year PhD student at MIT Operations Research Center."
+  bio              : "PhD Candidate at MIT Operations Research Center."
   location         : "Cambridge, MA"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=nLCMCpkAAAAJ&hl=en"
   email            : "seanlo@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
