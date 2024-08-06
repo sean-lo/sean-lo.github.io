@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * Ph.D in Operations Research, Massachusetts Institute of Technology, Operations Research Center, 2027 (expected)
