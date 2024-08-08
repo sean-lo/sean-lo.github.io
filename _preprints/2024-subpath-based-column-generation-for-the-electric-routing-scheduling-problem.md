@@ -1,7 +1,7 @@
 ---
 title: "Subpath-Based Column Generation for the Electric Routing-Scheduling Problem"
-collection: publications
-permalink: /publication/2024-subpath-based-column-generation-for-the-electric-routing-scheduling-problem
+collection: research
+permalink: /research/2024-subpath-based-column-generation-for-the-electric-routing-scheduling-problem
 excerpt: 'Column generation for the Electric Routing-Scheduling Problem, with a two-level decomposition of the pricing problem.'
 date: 2024-07-02
 venue: 'Preprint on arXiv'

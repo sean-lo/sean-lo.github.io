@@ -1,7 +1,7 @@
 ---
 title: "Optimal Low-Rank Matrix Completion: Semidefinite Relaxations and Eigenvector Disjunctions"
-collection: publications
-permalink: /publication/2023-optimal-low-rank-matrix-completion
+collection: research
+permalink: /research/2023-optimal-low-rank-matrix-completion
 excerpt: 'A custom branch-and-bound scheme that solves low-rank matrix completion to certifiable optimality, through an eigenvector disjunctive scheme and strong semidefinite relaxations at each node.'
 date: 2023-05-15
 venue: 'Preprint on arXiv'

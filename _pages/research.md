@@ -1,19 +1,15 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 <!-- In progress! -->
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-## Preprints
+# Preprints
 
 {% for post in site.preprints reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+# Publications
