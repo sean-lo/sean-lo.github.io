@@ -13,11 +13,17 @@ Education
 * Master of Business Analyics, Massachusetts Institute of Technology, Sloan School of Management, 2022
 * Bachelors of Science in Mathematics, Imperial College London, 2020
 
-Publications
+Preprints
+======
+<ul>{% for post in site.preprints reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+<!-- Publications
 ======
 <ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
-{% endfor %}</ul>
+{% endfor %}</ul> -->
   
 Talks
 ======
