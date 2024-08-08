@@ -20,7 +20,7 @@
           <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
         {% endif %}
       </h3>
-      {% if post.collection == 'preprint' or post.collection == 'publication' %}
+      {% if post.collection == 'preprints' or post.collection == 'publications' %}
         <p class="archive__item-excerpt" itemprop="description">
           {{ post.authors }}
           <br>
